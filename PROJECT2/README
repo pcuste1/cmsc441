@@ -1,0 +1,3 @@
+To run this program, supply a text file containing long strings of "G","C","U", and "A" and the size of the line that you are attempting to fold
+Usage:
+  ./srun ./run.out data.txt 1000
